@@ -1,0 +1,106 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #23252C;
+}
+
+img {
+  width: 80%;
+  height: auto;
+}
+
+.main--body {
+  /* display: flex; */
+  margin: auto;  /* helps align the content in the center */
+  flex-direction: column;
+  height: auto;  /* size of the containers height, setting it to auto expands the container along with the content */
+  width: 400px;  /* size of the containers width */
+  border: none;
+  margin-top: 60px; 
+  border-radius: 20px;
+  background-color: #161619;
+  box-shadow: 0 20px 30px 10px rgba(58, 57, 57, 0.5);
+}
+
+img {
+  padding: 20px;
+  border-radius: 30px;
+}
+
+#button1, #button2 {
+  display: inline-block;
+  margin: 5px;
+  width: 11vw;
+  border-radius: 5px;
+  padding: 5px;
+  font-size: 14px;
+}
+
+#button2 {
+  background: #5093E2;
+  color: white;
+}
+
+#button1:hover {
+  background-color: #2f5a8c;
+}
+
+#button2:hover {
+  background-color: #2f5a8c;
+}
+
+h1 {
+  color: white;
+}
+
+h4 {
+  color: white;
+}
+
+h5 {
+  color: white;
+}
+
+h2 {
+  display: flex;
+  padding: 10px;
+  color: white;
+}
+
+p {
+  display: flex;
+  justify-content: left;
+  text-align: left;
+  padding: 10px;
+  color: white;
+}
+
+#footer {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  color: white;
+  margin: 80px 30vw 10px 30vw; /* for the width of the icon container */
+  background-color: #161619;
+  height: 5em; /* changes the height of the container */
+  padding: none;
+  border-radius: 20px;
+  box-shadow: 0 20px 30px 10px rgba(58, 57, 57, 0.5);
+}
+
+.icon-style {
+  height: 2em; /* changes the size of the icons */
+}
+
+a {
+  text-decoration: none !important;
+  color: white;
+}
+
+a:hover {
+color: #5093E2;
+}
