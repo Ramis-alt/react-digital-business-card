@@ -1,3 +1,17 @@
+# Profile Page
+
+This repository contains the code for my personal profile page. It showcases my skills, 
+projects, and provides a way for others to get in touch with me.
+
+## Technologies Used
+- JavaScript
+- React
+- HTML
+- CSS
+## Acknowledgements
+- Google Fonts
+- Font Awesome
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
