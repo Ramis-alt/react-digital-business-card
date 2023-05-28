@@ -19,11 +19,14 @@ export default function Info() {
                 </div>
                 <div className="myDetails">
                     <h2>About</h2>
-                    <p>I am an aspiring frontend developer who is fascinated with web development.  
-                        I try to keep up with changing technologies regarding web development and best practices, and am always looking for new things to learn.
+                    <p>Welcome to my website! I'm a passionate frontend developer with a deep fascination for web development. 
+                        I thrive on staying up-to-date with the latest technologies and best practices in the ever-evolving world of web development. 
+                        Exploring new horizons and embracing continuous learning are integral parts of my journey. 
+                        I'm excited to showcase my skills and share my experiences as I strive to create captivating and user-friendly web experiences. 
+                        Join me as I push the boundaries of what's possible on the web!
                     </p>
                     <h2>Interests</h2>
-                    <p>Tacos!. Open to all kinds of music. Gamer. Outdoorsy. SciFi movie geek. 90's music. Traveling. Baseball.
+                    <p>Tacos! Open to all kinds of music. Gamer. Outdoorsy. SciFi movie geek. 90's music. Traveling. Baseball.
                     </p>
                 </div>
             </div>
