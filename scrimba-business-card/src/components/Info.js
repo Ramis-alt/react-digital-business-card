@@ -19,7 +19,7 @@ export default function Info() {
                 </div>
                 <div className="myDetails">
                     <h2>About</h2>
-                    <p>Welcome to my website! I'm a passionate frontend developer with a deep fascination for web development. 
+                    <p>Welcome to my website! I'm a passionate Front End developer with a deep fascination for web development. 
                         I thrive on staying up-to-date with the latest technologies and best practices in the ever-evolving world of web development. 
                         Exploring new horizons and embracing continuous learning are integral parts of my journey. 
                         I'm excited to showcase my skills and share my experiences as I strive to create captivating and user-friendly web experiences. 
